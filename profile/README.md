@@ -6,13 +6,13 @@
 
 - 📩 <b>How to reach us:</b>
 
-   • <b><a href="https://ds.nasgar.online">Discord</a></b>
+   • <b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b>
 
-   • <b><a href="https://nasgar.online">Web</a></b>
+   • <b><a href="https://nasgar.online" target=”_blank”>Web</a></b>
 
-   • <b><a href="https://nasgar.online/shop">Shop</a></b>
+   • <b><a href="https://nasgar.online/shop" target=”_blank”>Shop</a></b>
 
-   • <b><a href="https://twitter.com/NasgarNetwork">Twitter</a></b>
+   • <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
 <hr>
 
 ### |ES| 👋 Hola, nosotros somos Nasgar
@@ -23,11 +23,11 @@
 
 - 📩 <b>Como contactarnos:</b>
 
-   • <b><a href="https://ds.nasgar.online">Discord</a></b>
+   • <b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b>
 
-   • <b><a href="https://nasgar.online">Web</a></b>
+   • <b><a href="https://nasgar.online target=”_blank”">Web</a></b>
 
-   • <b><a href="https://nasgar.online/shop">Tienda</a></b>
+   • <b><a href="https://nasgar.online/shop" target=”_blank”>Tienda</a></b>
 
-   • <b><a href="https://twitter.com/NasgarNetwork">Twitter</a></b>
+   • <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
 <hr>
