@@ -8,6 +8,10 @@
 
    • <b><a href="https://ds.nasgar.onlone">Discord</a></b>
 
+   • <b><a href="https://nasgar.onlone">Web</a></b>
+
+   • <b><a href="https://nasgar.onlone/shop">Shop</a></b>
+
    • <b><a href="https://twitter.com/NasgarNetwork">Twitter</a></b>
 <hr>
 
@@ -20,6 +24,10 @@
 - 📩 <b>Como contactarnos:</b>
 
    • <b><a href="https://ds.nasgar.onlone">Discord</a></b>
+
+   • <b><a href="https://nasgar.onlone">Web</a></b>
+
+   • <b><a href="https://nasgar.onlone/shop">Tienda</a></b>
 
    • <b><a href="https://twitter.com/NasgarNetwork">Twitter</a></b>
 <hr>
