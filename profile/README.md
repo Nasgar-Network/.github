@@ -26,6 +26,6 @@
 📩 <b>Como contactarnos:</b>
 </p>
 <p align="center">
-<b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b> | <b><a href="https://nasgar.online target=”_blank”">Web</a></b> | <b><a href="https://nasgar.online/shop" target=”_blank”>Tienda</a></b> | <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
+<b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b> | <b><a href="https://nasgar.online">Web</a></b> | <b><a href="https://nasgar.online/shop" target=”_blank”>Tienda</a></b> | <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
 </p>
 <hr>
