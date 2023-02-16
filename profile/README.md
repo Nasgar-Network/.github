@@ -8,13 +8,7 @@
 
 - 📩 <b>How to reach us:</b>
 
-   • <b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b>
-
-   • <b><a href="https://nasgar.online" target=”_blank”>Web</a></b>
-
-   • <b><a href="https://nasgar.online/shop" target=”_blank”>Shop</a></b>
-
-   • <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
+   <b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b> | <b><a href="https://nasgar.online" target=”_blank”>Web</a></b> | <b><a href="https://nasgar.online/shop" target=”_blank”>Shop</a></b> | <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
 <hr>
 
 ### [ES] <b>¿Quieres saber sobre nosotros?</b>
@@ -23,11 +17,5 @@
 
 - 📩 <b>Como contactarnos:</b>
 
-   • <b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b>
-
-   • <b><a href="https://nasgar.online target=”_blank”">Web</a></b>
-
-   • <b><a href="https://nasgar.online/shop" target=”_blank”>Tienda</a></b>
-
-   • <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
+   <b><a href="https://ds.nasgar.online" target=”_blank”>Discord</a></b> | <b><a href="https://nasgar.online target=”_blank”">Web</a></b> | <b><a href="https://nasgar.online/shop" target=”_blank”>Tienda</a></b> | <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
 <hr>
