@@ -2,9 +2,7 @@
   <img width="250" height="250" src="https://user-images.githubusercontent.com/80640002/219227875-07523b7c-4066-458c-9839-65cef654e470.png">
 </p>
 
-### |EN| 👋 Hi, we are Nasgar
-
-<b>What about us?</b>
+### [EN] <b>What about us?</b>
 
 - 💼 We are a Server of Minecraft
 
@@ -19,9 +17,7 @@
    • <b><a href="https://twitter.com/NasgarNetwork" target=”_blank”>Twitter</a></b>
 <hr>
 
-### |ES| 👋 Hola, nosotros somos Nasgar
-
-<b>¿Quieres saber sobre nosotros?</b>
+### [ES] <b>¿Quieres saber sobre nosotros?</b>
 
 - 💼 Somos un servidor de Minecraft
 
