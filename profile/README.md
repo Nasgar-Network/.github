@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=Nasgar-Network&color=lightgrey)
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=Nasgar-Network&color=lightgrey)
+
+</div>
 
 <p align="center">
 [EN] <b>Do you want to know about us?</b>
